@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: https://zulfikar321.github.io/Easybank-landing-page/
+- Live Site URL: https://zulfikar321.github.io/rest-countries-API/
 
 ### The challenge
 
