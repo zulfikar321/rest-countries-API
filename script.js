@@ -87,6 +87,7 @@ async function showCountryDetails(value) {
                 <p><strong>Languages:</strong> ${countries.languages[0].name}</p>
               </div>
             </div>
+            <p><strong>Border Countries:</strong> ${countries.borders[0]}</p>
           </div>
         </div>
   `;
