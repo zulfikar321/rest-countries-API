@@ -21,6 +21,10 @@ Your users should be able to:
 ![easybank-ss2](https://github.com/zulfikar321/Easybank-landing-page/blob/main/SS/easybank-ss2.png?raw=true)
 ![easybank-ss3](https://github.com/zulfikar321/Easybank-landing-page/blob/main/SS/easybank-ss3.png?raw=true)
 
+### API
+
+https://restcountries.com/#api-endpoints-v2
+
 ### Built with
 
 - CSS Grid
